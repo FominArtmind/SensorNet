@@ -11,7 +11,7 @@ MOC_DIR     = build/moc
 RCC_DIR     = build/rc
 UI_DIR      = build/ui
 
-
+#FJSDNGgsdg
 DEPENDPATH += . \
               resources \
               src/common \
