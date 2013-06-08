@@ -2,7 +2,7 @@
 #include <QtGui/QApplication>
 //t est
 //#include "Vector.h"
-
+//fffff
 int main(int argc, char *argv[])
 {
 	//{
