@@ -11,7 +11,11 @@ MOC_DIR     = build/moc
 RCC_DIR     = build/rc
 UI_DIR      = build/ui
 
+<<<<<<< HEAD
 #tets
+=======
+#FJSDNGgsdg
+>>>>>>> 9eb48452713907de6e96ebe7a52cec0ea815c76a
 DEPENDPATH += . \
               resources \
               src/common \
